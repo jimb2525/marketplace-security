@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Reject">b958d5a9d7c32410991cc73b67f9d6a5</action_payload_definition>
+        <label>Reject Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-22 04:46:01</sys_created_on>
+        <sys_id>3958d5a911c32410bfd6390b4ff7b4aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Evam</sys_name>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_3958d5a911c32410bfd6390b4ff7b4aa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-22 04:46:01</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

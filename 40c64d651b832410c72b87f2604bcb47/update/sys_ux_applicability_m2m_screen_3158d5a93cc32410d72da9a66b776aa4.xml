@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">3558d5a913c3241063d6fd113d6659a4</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">3d58d5a9bdc32410c886a608a46b9bb4</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-22 04:46:01</sys_created_on>
+        <sys_id>3158d5a93cc32410d72da9a66b776aa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_3158d5a93cc32410d72da9a66b776aa4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-22 04:46:01</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

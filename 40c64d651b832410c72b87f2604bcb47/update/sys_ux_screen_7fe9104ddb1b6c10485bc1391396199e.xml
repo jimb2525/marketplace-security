@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Marketplace Security Config">97a855e927c3241047a5fd83f05f20ab</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Crisis Map">33e9104ddb1b6c10485bc1391396199b</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Crisis Map default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Crisis Map">f3e9104ddb1b6c10485bc13913961995</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>jon.crane@snc</sys_created_by>
+        <sys_created_on>2021-04-01 21:12:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7fe9104ddb1b6c10485bc1391396199e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Crisis Map default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_screen_7fe9104ddb1b6c10485bc1391396199e</sys_update_name>
+        <sys_updated_by>jon.crane@snc</sys_updated_by>
+        <sys_updated_on>2021-04-01 21:23:59</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7fe9104ddb1b6c10485bc1391396199e"/>
+</record_update>

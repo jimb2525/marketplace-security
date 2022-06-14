@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Marketplace Security Config">7958d5a91bc32410c72b87f2604bcb87</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Order success">bd58d5a9efc32410503cbdf555de52a7</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Order success Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Order success">b958d5a9ebc324109d2bd191572a0aa6</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-22 04:45:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7958d5a915c324102694a72f9a6104b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order success Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_screen_7958d5a915c324102694a72f9a6104b1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-22 04:45:59</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7958d5a915c324102694a72f9a6104b1"/>
+</record_update>

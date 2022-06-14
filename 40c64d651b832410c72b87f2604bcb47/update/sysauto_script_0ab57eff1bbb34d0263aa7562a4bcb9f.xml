@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <name>6b53b633dbfbf450ac67de46d49619e4</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="Alex Admin">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2021-11-20 14:18:32</run_start>
+        <run_time/>
+        <run_type>once</run_type>
+        <script><![CDATA[var message = 'DemoHub App Version is not supported';
+var appVersion = '';
+
+var gr = new GlideRecord('sys_app');
+gr.get('5c1cc3cbdbf87300f669f40b0c961935');
+
+appVersion = parseFloat(gr.version);
+
+if(appVersion < 4.7){
+	var grSP = new GlideRecord('sys_properties');
+
+	if (grSP.get('1a17fc64dbcd3700f669f40b0c96191d')) {
+
+		grSP.setValue('value',message);
+
+		grSP.update();
+
+	}
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-20 14:18:32</sys_created_on>
+        <sys_id>0ab57eff1bbb34d0263aa7562a4bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6b53b633dbfbf450ac67de46d49619e4</sys_name>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sysauto_script_0ab57eff1bbb34d0263aa7562a4bcb9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-20 14:18:32</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

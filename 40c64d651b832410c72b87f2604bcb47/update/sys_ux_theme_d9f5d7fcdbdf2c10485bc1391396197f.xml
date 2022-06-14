@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Uber Theme</description>
+        <name>Uber Theme</name>
+        <parent/>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 16:21:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d9f5d7fcdbdf2c10485bc1391396197f</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Uber Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_theme_d9f5d7fcdbdf2c10485bc1391396197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 19:19:50</sys_updated_on>
+        <theme>{&#13;
+  "--now-color_brand--primary": "0,0,0",&#13;
+  "--now-color--primary-1": "6,82,190",&#13;
+  "--now-color--primary-0": "80,141,255",&#13;
+  "--now-color--primary-2": "6,82,190",&#13;
+  "--now-color--primary-3": "59,76,182",&#13;
+  "--now-color_brand--secondary": "6,82,190",&#13;
+  "--now-color--secondary-1": "6,82,190",&#13;
+  "--now-color--secondary-0": "247,218,223",&#13;
+  "--now-color--secondary-2": "80,111,248",&#13;
+  "--now-color--secondary-3": "80,111,248", &#13;
+  "--now-line-height-crop--before": "-0.2125em",&#13;
+  "--now-line-height-crop--after": "-0.15em",&#13;
+  "--now-font-family": "Open Sans, Arial, sans-serif",&#13;
+  "--now-color--link-1": "6,82,190",&#13;
+  "--now-button--border-radius": "100px",&#13;
+  "--now-button--font-weight": "Medium",&#13;
+  "--now-button--height-scale": "1.25",&#13;
+  "--now-button--primary--border-width": "0",&#13;
+  "--now-button--primary--color": "255,255,255",&#13;
+  "--now-button--primary--color--hover": "255,255,255",&#13;
+  "--now-button--primary--color--active": "255,255,255",&#13;
+  "--now-button--primary--background-color": "6,82,190",&#13;
+  "--now-button--primary--background-color--hover": "6,82,190",&#13;
+  "--now-button--primary--background-color--active": "59,76,182",&#13;
+  "--now-button--primary--border-color": "6,82,190",&#13;
+  "--now-button--primary--border-color--hover": "6,82,190",&#13;
+  "--now-button--primary--border-color--active": "59,76,182",&#13;
+  "--now-button--primary_high-contrast--background-color--active": "6,82,190",&#13;
+  "--now-button--primary_high-contrast--background-color--hover": "6,82,190",&#13;
+  "--now-button--primary_high-contrast--color": "6,82,190",&#13;
+  "--now-button--primary_high-contrast--color--hover": "59,76,182",&#13;
+  "--now-button--primary-highlighted--background-color--active": "6,82,190",&#13;
+  "--now-button--primary-highlighted--background-color--hover": "6,82,190",&#13;
+  "--now-button--primary-highlighted--color": "6,82,190",&#13;
+  "--now-button--primary-highlighted--color--active": "59,76,182",&#13;
+  "--now-button--primary-highlighted--color--hover": "6,82,190",&#13;
+  "--now-button--primary-highlighted_high-contrast--color": "6,82,190",&#13;
+  "--now-button--primary-highlighted_high-contrast--color--hover": "59,76,182",&#13;
+  "--now-button--primary-highlighted_high-contrast--color--selected": "59,76,182",&#13;
+  "--now-button--primary-highlighted--background-color--selected": "6,82,190",&#13;
+  "--now-button--primary-highlighted--color--selected": "6,82,190",&#13;
+  "--now-button--bare_primary--color": "255,255,255",&#13;
+  "--now-button--bare_primary--color--hover": "255,255,255",&#13;
+  "--now-button--bare_primary--color--active": "255,255,255",&#13;
+  "--now-button--bare_primary--background-color--hover": "6,82,190",&#13;
+  "--now-button--bare_primary--background-color--active": "59,76,182",&#13;
+  "--now-button--secondary--color": "6,82,190",&#13;
+  "--now-button--secondary--color--hover": "6,82,190",&#13;
+  "--now-button--secondary--color--active": "59,76,182",&#13;
+  "--now-button--secondary--background-color": "255,255,255",&#13;
+  "--now-button--secondary--background-color--hover": "255,255,255",&#13;
+  "--now-button--secondary--background-color--active": "255,255,255",&#13;
+  "--now-button--secondary--border-color": "6,82,190",&#13;
+  "--now-button--secondary--border-color--hover": "6,82,190",&#13;
+  "--now-button--secondary--border-color--active": "59,76,182",&#13;
+  "--now-button--secondary-highlighted--background-color--active": "6,82,190",&#13;
+  "--now-button--secondary-highlighted--background-color--hover": "6,82,190",&#13;
+  "--now-button--secondary-highlighted--color--active": "59,76,182",&#13;
+  "--now-button--secondary-highlighted--color--hover": "6,82,190",&#13;
+  "--now-button--secondary-highlighted--background-color--selected": "6,82,190",&#13;
+  "--now-button--secondary-highlighted--color--selected": "6,82,190",&#13;
+  "--now-button--bare_secondary--color": "6,82,190",&#13;
+  "--now-button--bare_secondary--color--hover": "6,82,190",&#13;
+  "--now-button--bare_secondary--color--active": "1,60,71",&#13;
+  "--now-button--bare_secondary--background-color--hover": "255,255,255",&#13;
+  "--now-button--bare_secondary--background-color--active": "255,255,255",&#13;
+  "--now-button--tertiary--color": "51,62,63",&#13;
+  "--now-button--tertiary--color--hover": "0,0,0",&#13;
+  "--now-button--tertiary--color--active": "0,0,0",&#13;
+  "--now-button--tertiary--background-color": "0,0,0,0",&#13;
+  "--now-button--tertiary--background-color--active": "0,0,0,0",&#13;
+  "--now-button--tertiary--background-color--hover": "0,0,0,0",&#13;
+  "--now-button--tertiary--border-color": "0,0,0,0",&#13;
+  "--now-button--tertiary--border-color--hover": "0,0,0,0",&#13;
+  "--now-button--tertiary--border-color--active": "0,0,0,0",&#13;
+  "--now-button--tertiary--background-color--selected_active": "0,0,0,0",&#13;
+  "--now-button--tertiary--background-color--selected_hover": "0,0,0,0",&#13;
+  "--now-button--tertiary--color--selected": "0,0,0,0",&#13;
+  "--now-button--tertiary--color--selected_active": "0,0,0,0",&#13;
+  "--now-button--tertiary--color--selected_hover": "0,0,0,0",&#13;
+  "--now-button--bare_tertiary--background-color--hover": "0,0,0,0",&#13;
+  "--now-button--bare_tertiary--background-color--active": "0,0,0,0",&#13;
+  "--now-toggle_handle--border-radius": "100px",&#13;
+  "--now-toggle_track--border-color": "99,114,116",&#13;
+  "--now-toggle_track--background-color": "172,180,181",&#13;
+  "--now-toggle_track--background-color--checked": "6,82,190",&#13;
+  "--now-toggle_track--border-color--checked": "6,82,190",&#13;
+  "--now-toggle_track--border-radius": "100px",&#13;
+  "--now-modal--border-radius": "20px",&#13;
+  "--now-modal--border-width": "0",&#13;
+  "--now-tabs--border-color": "0,0,0,0",&#13;
+  "--now-tabs--background-color": "0,0,0,0",&#13;
+  "--now-tabs--background-color--hover": "0,0,0,0",&#13;
+  "--now-tabs--background-color--selected": "0,0,0,0",&#13;
+  "--now-checkbox--border-radius": "4px",&#13;
+  "--now-checkbox_icon--color": "6,82,190",&#13;
+  "--now-radio-buttons--background-color--active": "255,255,255",&#13;
+  "--now-radio-buttons_radio--background-color": "6,82,190"&#13;
+}&#13;
+   &#13;
+</theme>
+    </sys_ux_theme>
+</record_update>

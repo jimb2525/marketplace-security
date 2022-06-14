@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="DELETE">
+        <active>true</active>
+        <description>Uber Builder Theme</description>
+        <name>Uber Builder Theme</name>
+        <parent display_value="Builder Theme">5b672c90c7331010d447c17cf4c26025</parent>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 15:43:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98ce03fcdb5f2c10485bc139139619e8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Uber Builder Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_theme_98ce03fcdb5f2c10485bc139139619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 15:52:52</sys_updated_on>
+        <theme>{&#13;
+    "--now-line-height-crop--before": "-0.25em",&#13;
+    "navigation--font-weight": "600",&#13;
+    "catalog--variable-gap": "1.5rem",&#13;
+    "button--width-scale" : "1.25",&#13;
+    "--now-button--bare_primary--color": "6,82,190",&#13;
+    "--now-button--bare_primary--color--hover": "74,142,255",&#13;
+    "--now-button--bare_primary--color--active": "1,60,71",&#13;
+	"color--neutral-0": "255,255,255",&#13;
+	"color--neutral-1": "246,247,247",&#13;
+	"color--neutral-2": "228,230,231",&#13;
+	"color--neutral-3": "209,214,214",&#13;
+	"color--neutral-4": "191,197,198",&#13;
+	"color--neutral-5": "172,180,181",&#13;
+	"color--neutral-6": "154,164,165",&#13;
+	"color--neutral-7": "135,147,148",&#13;
+	"color--neutral-8": "117,130,132",&#13;
+	"color--neutral-9": "99,114,116",&#13;
+	"color--neutral-10": "80,97,99",&#13;
+	"color--neutral-11": "73,88,90",&#13;
+	"color--neutral-12": "66,80,81",&#13;
+	"color--neutral-13": "58,71,72",&#13;
+	"color--neutral-14": "51,62,63",&#13;
+	"color--neutral-15": "44,53,55",&#13;
+	"color--neutral-16": "37,45,46",&#13;
+	"color--neutral-17": "30,36,37",&#13;
+	"color--neutral-18": "22,27,28",&#13;
+	"color--neutral-19": "15,18,19",&#13;
+	"color--neutral-20": "8,10,10",&#13;
+	"color--neutral-21": "0,0,0",&#13;
+	"color--background-primary": "255,255,255",&#13;
+	"color--background-secondary": "246,247,247",&#13;
+	"color--background-tertiary": "228,230,231",&#13;
+	"color--divider-primary": "135,147,148",&#13;
+	"color--divider-secondary": "172,180,181",&#13;
+	"color--divider-tertiary": "209,214,214",&#13;
+	"color--text-primary": "22,27,28",&#13;
+	"color--text-secondary": "66,80,81",&#13;
+	"color--text-tertiary": "99,114,116",&#13;
+    "tabs--border-color": "172,180,181",&#13;
+    "tabs--background-color": "255,255,255",&#13;
+    "--now-tabs--selected--background-color": "6,82,190",&#13;
+    "--now-tabs--color--selected": "74,142,255",&#13;
+    "--now-color--secondary-0": "230,251,255",&#13;
+    "canvas-header-container--background-color": "var(--now-color--primary-3)",&#13;
+    "canvas-nav-item--simple-nav--color": "var(--now-color--neutral-4)",&#13;
+    "canvas-nav-item--simple-nav--color--hover": "var(--now-color--neutral-4)",&#13;
+    "canvas-nav-item--simple-nav--color--active": "var(--now-color--neutral-4)",&#13;
+    "canvas-nav-item--simple-nav--background-color--hover": "var(--now-color--primary-1)",&#13;
+    "popover--border-radius": "0.75rem"&#13;
+}</theme>
+    </sys_ux_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</application>
+        <file_path/>
+        <instance_id>1c39b9bc1b0fec10c8432f8dee4bcb4a</instance_id>
+        <instance_name>utimedemo</instance_name>
+        <name>sys_ux_theme_98ce03fcdb5f2c10485bc139139619e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme"><sys_ux_theme action="INSERT_OR_UPDATE"><active>true</active><description>Uber Builder Theme</description><name>Uber Builder Theme</name><parent display_value="Builder Theme">5b672c90c7331010d447c17cf4c26025</parent><sys_class_name>sys_ux_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-01 15:43:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>98ce03fcdb5f2c10485bc139139619e8</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Uber Builder Theme</sys_name><sys_overrides/><sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package><sys_policy/><sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope><sys_update_name>sys_ux_theme_98ce03fcdb5f2c10485bc139139619e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-01 15:52:52</sys_updated_on><theme>{&#13;
+    "--now-line-height-crop--before": "-0.25em",&#13;
+    "navigation--font-weight": "600",&#13;
+    "catalog--variable-gap": "1.5rem",&#13;
+    "button--width-scale" : "1.25",&#13;
+    "--now-button--bare_primary--color": "6,82,190",&#13;
+    "--now-button--bare_primary--color--hover": "74,142,255",&#13;
+    "--now-button--bare_primary--color--active": "1,60,71",&#13;
+	"color--neutral-0": "255,255,255",&#13;
+	"color--neutral-1": "246,247,247",&#13;
+	"color--neutral-2": "228,230,231",&#13;
+	"color--neutral-3": "209,214,214",&#13;
+	"color--neutral-4": "191,197,198",&#13;
+	"color--neutral-5": "172,180,181",&#13;
+	"color--neutral-6": "154,164,165",&#13;
+	"color--neutral-7": "135,147,148",&#13;
+	"color--neutral-8": "117,130,132",&#13;
+	"color--neutral-9": "99,114,116",&#13;
+	"color--neutral-10": "80,97,99",&#13;
+	"color--neutral-11": "73,88,90",&#13;
+	"color--neutral-12": "66,80,81",&#13;
+	"color--neutral-13": "58,71,72",&#13;
+	"color--neutral-14": "51,62,63",&#13;
+	"color--neutral-15": "44,53,55",&#13;
+	"color--neutral-16": "37,45,46",&#13;
+	"color--neutral-17": "30,36,37",&#13;
+	"color--neutral-18": "22,27,28",&#13;
+	"color--neutral-19": "15,18,19",&#13;
+	"color--neutral-20": "8,10,10",&#13;
+	"color--neutral-21": "0,0,0",&#13;
+	"color--background-primary": "255,255,255",&#13;
+	"color--background-secondary": "246,247,247",&#13;
+	"color--background-tertiary": "228,230,231",&#13;
+	"color--divider-primary": "135,147,148",&#13;
+	"color--divider-secondary": "172,180,181",&#13;
+	"color--divider-tertiary": "209,214,214",&#13;
+	"color--text-primary": "22,27,28",&#13;
+	"color--text-secondary": "66,80,81",&#13;
+	"color--text-tertiary": "99,114,116",&#13;
+    "tabs--border-color": "172,180,181",&#13;
+    "tabs--background-color": "255,255,255",&#13;
+    "--now-tabs--selected--background-color": "6,82,190",&#13;
+    "--now-tabs--color--selected": "74,142,255",&#13;
+    "--now-color--secondary-0": "230,251,255",&#13;
+    "canvas-header-container--background-color": "var(--now-color--primary-3)",&#13;
+    "canvas-nav-item--simple-nav--color": "var(--now-color--neutral-4)",&#13;
+    "canvas-nav-item--simple-nav--color--hover": "var(--now-color--neutral-4)",&#13;
+    "canvas-nav-item--simple-nav--color--active": "var(--now-color--neutral-4)",&#13;
+    "canvas-nav-item--simple-nav--background-color--hover": "var(--now-color--primary-1)",&#13;
+    "popover--border-radius": "0.75rem"&#13;
+}</theme></sys_ux_theme></record_update>]]></payload>
+        <payload_hash>-1162228382</payload_hash>
+        <record_name>Uber Builder Theme</record_name>
+        <reverted_from/>
+        <source>84c64d651b832410c72b87f2604bcb49</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 15:52:53</sys_created_on>
+        <sys_id>90e097b0dbdf2c10485bc139139619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788e232c240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 15:52:53</sys_updated_on>
+        <type>UX Theme</type>
+        <update_guid>58e097b064df2c108c31952299e172c3</update_guid>
+        <update_guid_history>58e097b064df2c108c31952299e172c3:-1162228382,3a4fc770b3df2c101d7bf8146650727f:-1148430588,08de437060df2c106c62a9eb7701c63e:1921753267,90cec7706adf2c100e6588aa741c8f7b:-801118507</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 16:14:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_theme">sys_ux_theme</sys_db_object>
+        <sys_id>0a452b845d1d495aaa995267103b5b24</sys_id>
+        <sys_metadata>98ce03fcdb5f2c10485bc139139619e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Uber Builder Theme</sys_name>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_scope_delete display_value="">adecb7d4612b44ea93decaf05f6ceb84</sys_scope_delete>
+        <sys_update_name>sys_ux_theme_98ce03fcdb5f2c10485bc139139619e8</sys_update_name>
+        <sys_update_version display_value="sys_ux_theme_98ce03fcdb5f2c10485bc139139619e8">90e097b0dbdf2c10485bc139139619c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 16:14:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

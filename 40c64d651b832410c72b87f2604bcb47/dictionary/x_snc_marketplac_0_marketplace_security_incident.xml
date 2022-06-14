@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Marketplace Security Incident" max_length="40" name="x_snc_marketplac_0_marketplace_security_incident" sizeclass="18" type="collection">
+        <element label="Impacted Locations" max_length="32" name="impacted_locations" reference="cmn_location" type="glide_list"/>
+        <element display="true" label="Impacted Markets" max_length="4000" name="impacted_markets" reference="x_snc_marketplac_0_uber_market" type="glide_list"/>
+        <element label="Incident Location" max_length="100" name="incident_location" type="string"/>
+        <element choice="1" label="Incident Source" max_length="80" name="incident_source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Email" sequence="10" value="email"/>
+                <element inactive_on_update="false" label="Slack" sequence="20" value="slack"/>
+                <element inactive_on_update="false" label="Dialpad" sequence="30" value="dialpad"/>
+                <element inactive_on_update="false" label="Dataminr" sequence="40" value="dataminr"/>
+                <element inactive_on_update="false" label="TAM-C" sequence="50" value="tam_c"/>
+                <element inactive_on_update="false" label="Anvil Group" sequence="60" value="anvil_group"/>
+                <element inactive_on_update="false" label="Other" sequence="70" value="other"/>
+            </choice>
+        </element>
+    </element>
+</database>

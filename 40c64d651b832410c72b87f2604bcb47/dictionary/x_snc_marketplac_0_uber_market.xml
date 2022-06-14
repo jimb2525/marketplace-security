@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Uber Market" max_length="40" name="x_snc_marketplac_0_uber_market" sizeclass="2" type="collection">
+        <element label="Market Description" max_length="200" name="market_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Uber Market" max_length="100" name="uber_market" type="string"/>
+    </element>
+</database>

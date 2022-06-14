@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_activity_definition">
+    <sys_pd_activity_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <activity_type display_value="Record">e12af577871333003058d1a936cb0ba4</activity_type>
+        <badge/>
+        <category/>
+        <description/>
+        <input_display_preferences/>
+        <inputs/>
+        <label>Create and Log Incident</label>
+        <name>create_and_log_incident</name>
+        <source>c42ad4561b9fe410c72b87f2604bcb7d</source>
+        <source_type>sys_hub_flow</source_type>
+        <sys_class_name>sys_pd_activity_definition</sys_class_name>
+        <sys_created_by>james</sys_created_by>
+        <sys_created_on>2021-04-05 18:34:00</sys_created_on>
+        <sys_id>f8fb589a1b9fe410c72b87f2604bcbf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create and Log Incident</sys_name>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_pd_activity_definition_f8fb589a1b9fe410c72b87f2604bcbf6</sys_update_name>
+        <sys_updated_by>james</sys_updated_by>
+        <sys_updated_on>2021-04-05 18:34:00</sys_updated_on>
+        <system_level>false</system_level>
+        <table>global</table>
+        <type_vals/>
+        <wait_for_completion>true</wait_for_completion>
+    </sys_pd_activity_definition>
+    <sys_variable_value action="delete_multiple" query="document_key=f8fb589a1b9fe410c72b87f2604bcbf6"/>
+</record_update>

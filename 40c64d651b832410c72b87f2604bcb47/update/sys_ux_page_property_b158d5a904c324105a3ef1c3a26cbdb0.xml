@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Marketplace Security Portal">7558d5a91bc32410c72b87f2604bcb87</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">3158d5a94cc32410d4449a01d68c9ba6</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-22 04:46:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b158d5a904c324105a3ef1c3a26cbdb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_page_property_b158d5a904c324105a3ef1c3a26cbdb0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-22 04:46:02</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_marketplac_0.7558d5a91bc32410c72b87f2604bcb87.route.chrome_header.3158d5a94cc32410d4449a01d68c9ba6</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b158d5a904c324105a3ef1c3a26cbdb0"/>
+</record_update>

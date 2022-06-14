@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Open Map</name>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>james</sys_created_by>
+        <sys_created_on>2021-03-31 18:00:43</sys_created_on>
+        <sys_id>9b84a2641b9fec10c72b87f2604bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Map</sys_name>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_form_action_9b84a2641b9fec10c72b87f2604bcbfc</sys_update_name>
+        <sys_updated_by>james</sys_updated_by>
+        <sys_updated_on>2021-03-31 18:00:43</sys_updated_on>
+        <table>x_snc_marketplac_0_marketplace_security_incident</table>
+        <ui_action display_value="Open Map">c404126c1b1fec10c72b87f2604bcbc8</ui_action>
+    </sys_ux_form_action>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">fd58d5a9b3c32410ac0253923fc742a4</declarative_action_assignment>
+        <predicate display_value="My Tasks">f958d5a906c324105cad98346da7f8ac</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-22 04:46:01</sys_created_on>
+        <sys_id>7958d5a97cc32410db13affd65e92bb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_7958d5a97cc32410db13affd65e92bb0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-22 04:46:01</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sn_scd_fa_gdac_feeds" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc1391396198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc1391396198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc1391396198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_title</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc1391396198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_description</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc1391396198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_link</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc1391396198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_pubdate</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc1391396198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_guid</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc1391396198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_geo_point</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc1391396198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_geo_point_geo_lat</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc1391396198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_geo_point_geo_long</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc1391396198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc1391396198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_identifier</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc1391396198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_sender</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc1391396198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_sent</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc1391396198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_status</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc1391396198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_msgtype</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc1391396198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_scope</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc13913961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_incidents</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc13913961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_info</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc13913961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_o_cap_category</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc13913961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_info_cap_event</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc13913961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_fo_cap_urgency</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc13913961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_o_cap_severity</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc13913961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca__cap_certainty</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc13913961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_cap_sendername</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc13913961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_o_cap_headline</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc13913961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_ap_description</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc13913961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_info_cap_web</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc13913961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca__cap_parameter</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc13913961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca__cap_valuename</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc13913961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_eter_cap_value</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc13913961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_cap_info_cap_area</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc13913961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_a_cap_areadesc</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc13913961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cap_alert_ca_ea_cap_polygon</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>165dbcd1dbdfec10485bc13913961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1a5dbcd1dbdfec10485bc13913961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>1e5dbcd1dbdfec10485bc13913961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="sn_scd_fa_gdac_feeds" element="NULL" name="sn_scd_fa_gdac_feeds" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5a5dbcd1dbdfec10485bc1391396198a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_id>125dbcd1dbdfec10485bc13913961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sn_scd_fa_gdac_feeds</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-02 18:25:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a5dbcd1dbdfec10485bc1391396198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_scd_fa_gdac_feeds</sys_name>
+            <sys_package display_value="Marketplace Security" source="x_snc_marketplac_0">40c64d651b832410c72b87f2604bcb47</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketplace Security">40c64d651b832410c72b87f2604bcb47</sys_scope>
+            <sys_update_name>sys_ui_list_sn_scd_fa_gdac_feeds_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-02 18:25:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
